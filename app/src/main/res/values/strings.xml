@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FriendsTrip</string>
+    <string name="lema">La aventura comienza aquí mismo</string>
+    <string name="LogingText">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="textRegister">¿Aún no tienes cuenta? ¿A qué esperas?</string>
+    <string name="User">Usuario</string>
+    <string name="Pasword">Contraseña</string>
+    <string name="Iniciar">Iniciar sesión</string>
+    <string name="Name">Nombre de usuario</string>
+    <string name="email">Correo electrónico</string>
+    <string name="date">Fecha de nacimiento</string>
+    <string name="SexMas">Sexo masculino</string>
+    <string name="sexFem">Sexo femenino</string>
+    <string name="Registro">Regístrate</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_inicio">inicio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
